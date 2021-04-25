@@ -1,1 +1,19 @@
 ;aiu;
+
+[Update]
+Name = TempoWeave 2.10.11
+ProductVersion = 2.10.11.0
+URL = http://loftyfiberblob.blob.core.windows.net/twdownload/TempoWeave-2.10.11.exe
+Size = 2094184
+ReleaseDate = 24/04/2021
+SHA256 = F48A749F8BD7F20AA72F4F846C9873692CAA63F8B4CA256545E7305967B2CBA4
+MD5 = da9dd4e5a6f4319b110b00c62f318421
+ServerFileName = TempoWeave.exe
+Flags = Critical
+FilePath = [APPDIR]YourApplication.exe
+Version = 2.10.11.0
+UpdatedApplications = TempoWeave[1.0-2.10.10]
+Description = This are release notes	
+Feature = Here we list the veatures
+Enhancement = Enhancements are here	
+BugFix = Bugs fixed here
